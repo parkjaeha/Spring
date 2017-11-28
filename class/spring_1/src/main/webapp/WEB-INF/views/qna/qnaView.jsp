@@ -7,7 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<h1>qna View</h1>
+		<h1>${board} View</h1>
+		<div>
+		<h3> title : ${view.title}</h3>
+		<h3> title : ${view.writer}</h3>
+		<h3> title : ${view.age}</h3>
+		</div>
 		<a href="./qnaWrite">qna write</a>
 </body>
 </html>

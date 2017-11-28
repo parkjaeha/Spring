@@ -9,6 +9,13 @@
 <body>
 
 		<h1>QnaList</h1>
+		<div>
+		<h3>title : ${view.title}</h3>
+		<h3>writer : ${view.writer}</h3>
+		<h3>age : ${view.age}</h3>
+		
+		</div>
+		
 		<a href="./qnaView">qna view</a>
 		<a href="../">home</a>
 		

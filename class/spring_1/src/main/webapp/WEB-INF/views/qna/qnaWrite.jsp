@@ -14,6 +14,13 @@
 		<input type="text" name="title">
 		<input type="text" name="writer">
 		<input type="text" name="age">
+		<p>
+		 IU<input type="checkBox" name="name" value="iu">
+		 CHOA<input type="checkBox" name="name" value="choa">
+		 SUJI<input type="checkBox" name="name" value="suji">
+		 
+		</p>
+		
 		<button>click</button>
 		</form>
 		
