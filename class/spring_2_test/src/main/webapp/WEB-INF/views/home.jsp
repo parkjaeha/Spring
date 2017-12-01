@@ -15,5 +15,9 @@
 <h1>Color : ${car.color}</h1>
 <h1>Hp : ${car.engine.hp}</h1>
 <h1>Fuel : ${car.engine.fuel}</h1>
+
+
+<a href="./fileUpload">fileUpload</a>
+
 </body>
 </html>
